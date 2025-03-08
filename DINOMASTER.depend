@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1741367778 source:f:\dinomaster\button.cpp
+	"Button.h"
+
+1741027942 f:\dinomaster\button.h
+	"Game_Base.h"
+	"LTexture.h"
+
+1741366564 f:\dinomaster\game_base.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<ctime>
+
+1741094683 f:\dinomaster\ltexture.h
+	"Game_Base.h"
+
+1741069464 source:f:\dinomaster\character.cpp
+	"Character.h"
+
+1741075200 f:\dinomaster\character.h
+	"LTexture.h"
+
+1741070750 source:f:\dinomaster\enemy.cpp
+	"Enemy.h"
+
+1741071242 f:\dinomaster\enemy.h
+	"LTexture.h"
+
+1741027942 source:f:\dinomaster\game_base.cpp
+	"Game_Base.h"
+
+1741368811 source:f:\dinomaster\game_utils.cpp
+	"Game_Utils.h"
+
+1741366603 f:\dinomaster\game_utils.h
+	"Game_Base.h"
+	"Button.h"
+	"Enemy.h"
+	"Character.h"
+
+1741094083 source:f:\dinomaster\ltexture.cpp
+	"LTexture.h"
+
+1741429842 source:f:\dinomaster\main.cpp
+	"Game_Base.h"
+	"Game_Utils.h"
+	"LTexture.h"
+	"Button.h"
+	"Character.h"
+	"Enemy.h"
+
